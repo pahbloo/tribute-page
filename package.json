@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "normalize": "^0.3.1",
+    "normalize.css": "^8.0.1"
+  },
+  "scripts": {
+    "build": "cp ./node_modules/normalize.css/normalize.css normalize.css"
+  }
+}
